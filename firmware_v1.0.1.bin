@@ -7,7 +7,7 @@
 const char* ssid = "AM-Altamedia-2.4";
 const char* password = "";
 const char* json_url = "https://raw.githubusercontent.com/Babailai/OTA1/refs/heads/main/firmware.json";
-const char* current_version = "1.0.0";
+const char* current_version = "1.0.1";
 
 void setup() {
   Serial.begin(115200);
